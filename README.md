@@ -28,7 +28,7 @@ API Backend (optionnel)
 📦 Installation
 1️⃣ Cloner le projet
 
-git clone https://github.com/ton-utilisateur/Fruit_React.git
+git clone https://github.com/jmkouadio/Fruit_React.git
 cd Fruit_React
 2️⃣ Installer les dépendances
 
