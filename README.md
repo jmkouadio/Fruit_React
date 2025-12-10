@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
+Une application e-commerce moderne développée avec React.js et TailwindCSS, permettant la navigation, l’ajout au panier et le paiement sécurisé via Paystack.
+Ce projet a été conçu pour offrir une expérience fluide, responsive et optimisée pour tout type d’appareil.
 
-## Project info
+🚀 Fonctionnalités
+🛍️ Catalogue de produits dynamique
 
-**URL**: https://lovable.dev/projects/f58b5bfd-3f12-4309-b7fb-8689fff043c4
+🛒 Système de panier complet
 
-## How can I edit this code?
+💳 Paiement sécurisé avec Paystack
 
-There are several ways of editing your application.
+🔐 Gestion des sessions utilisateurs (optionnel)
 
-**Use Lovable**
+📱 Interface 100% responsive grâce à TailwindCSS
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f58b5bfd-3f12-4309-b7fb-8689fff043c4) and start prompting.
+⚡ Interface rapide basée sur React et hooks
 
-Changes made via Lovable will be committed automatically to this repo.
+🧰 Technologies utilisées
+React.js
 
-**Use your preferred IDE**
+TailwindCSS
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+JavaScript / TypeScript (selon version)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Paystack Inline / Paystack React SDK
 
-Follow these steps:
+API Backend (optionnel)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+📦 Installation
+1️⃣ Cloner le projet
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/ton-utilisateur/Fruit_React.git
+cd Fruit_React
+2️⃣ Installer les dépendances
 
-# Step 3: Install the necessary dependencies.
-npm i
+npm install
+3️⃣ Configurer Paystack
+Créer un fichier .env :
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+
+VITE_PAYSTACK_PUBLIC_KEY=pk_test_xxxxxxxx
+
+▶️ Lancement du projet
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+L’application sera disponible sur :
+👉 http://localhost:5173 (ou selon Vite)Une application e-commerce moderne développée avec React.js et TailwindCSS, permettant la navigation, l’ajout au panier et le paiement sécurisé via Paystack.
+Ce projet a été conçu pour offrir une expérience fluide, responsive et optimisée pour tout type d’appareil.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🚀 Fonctionnalités
+🛍️ Catalogue de produits dynamique
 
-**Use GitHub Codespaces**
+🛒 Système de panier complet
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+💳 Paiement sécurisé avec Paystack
 
-## What technologies are used for this project?
 
-This project is built with:
+📱 Interface 100% responsive grâce à TailwindCSS
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+⚡ Interface rapide basée sur React et hooks
 
-## How can I deploy this project?
+🧰 Technologies utilisées
+React.js
 
-Simply open [Lovable](https://lovable.dev/projects/f58b5bfd-3f12-4309-b7fb-8689fff043c4) and click on Share -> Publish.
+TailwindCSS
 
-## Can I connect a custom domain to my Lovable project?
+TypeScript 
 
-Yes, you can!
+Paystack Inline / Paystack React SDK
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Superbase
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+📦 Installation
+1️⃣ Cloner le projet
+
+git clone https://github.com/jmkouadio/Fruit_React.git
+cd Fruit_React
+2️⃣ Installer les dépendances
+
+npm install
+3️⃣ Configurer Paystack
+Créer un fichier .env :
+
+
+VITE_PAYSTACK_PUBLIC_KEY=pk_test_xxxxxxxx
+▶️ Lancement du projet
+
+npm run dev
+L’application sera disponible sur :
+👉 http://localhost:5173 (ou selon Vite)
