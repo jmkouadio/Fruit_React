@@ -36,15 +36,15 @@ export const Footer = () => {
             <ul className="space-y-3 text-background/60">
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-primary" />
-                +33 1 23 45 67 89
+                +225 07 58 90 42 84
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-primary" />
-                info@juicebar.fr
+                contact@jmkouadio.com
               </li>
               <li className="flex items-center gap-3">
                 <MapPin className="w-4 h-4 text-primary" />
-                Paris, France
+                Abidjan, CI
               </li>
             </ul>
           </div>
